@@ -14,7 +14,7 @@ spec:
         userprofile:
           activeVersion: blue
   destination:
-    server: https://4158B2F6706F1C3612FE24973FCC59D0.gr7.ap-south-1.eks.amazonaws.com
+    server: https://moorthis-aks-cluster-dns-eddo93ut.hcp.japanwest.azmk8s.io:443
     namespace: retail
   syncPolicy:
     automated:
